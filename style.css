@@ -1,0 +1,6 @@
+.navbar-brand{
+    color: white;
+}
+.bg-dark{
+    background-color: var(--pri-col);
+}
