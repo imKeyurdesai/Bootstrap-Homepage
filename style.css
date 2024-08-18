@@ -1,6 +1,6 @@
-.navbar-brand{
-    color: white;
-}
 .bg-dark{
-    background-color: var(--pri-col);
+    background-color: var(--pri-col) !important;
+}
+.pt-6{
+    padding: 96px 32px;
 }
